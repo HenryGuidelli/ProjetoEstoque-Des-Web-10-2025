@@ -1,0 +1,6 @@
+com/example/projeto/model/Produto.class
+com/example/projeto/ProjetoApplication.class
+com/example/projeto/controller/ProdutoController.class
+com/example/projeto/service/CotacaoService.class
+com/example/projeto/service/ProdutoService.class
+com/example/projeto/repository/ProdutoRepository.class
