@@ -1,6 +1,8 @@
 # ProjetoEstoque-Des-Web-10-2025
 Trabalho do segundo bimestre de Des. Web Uniara - Projeto Estoque
 
+VIDEO: https://www.youtube.com/watch?v=503KzytTk-U&feature=youtu.be
+
 GRUPO:
   - Henry Guidelli | RA: 04724-556
   - Murilo Paiva Garbelini | RA: 04724-557
